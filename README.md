@@ -2,7 +2,9 @@
 | Date      | What                      | Hours |
 |-----------|---------------------------|------:|
 | 11/16/2026 | Set Up GitHub |   .2  |
-| **Total** |                           | **.2** |
+| 11/18/2026 | Idea Creation and Initial Website Sketch | 4 |
+| 11/18/2026 | ERD Design, and Backend research | 2 |
+| **Total** |                           | **6.2** |
 
 
 ##Initial Design
